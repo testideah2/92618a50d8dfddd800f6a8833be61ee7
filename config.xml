@@ -3,7 +3,7 @@
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "ru.tentaculus.test"
     versionCode = "10"
-    version     = "1.1.0">
+    version     = "1.2.0">
 
 <name>ТЕСТ. tentaculus.ru</name>
 
@@ -42,7 +42,7 @@
     <icon src="res/android/icon/e5e38dafe67de8023973ad51c8cdc064.png" density="mdpi" />
     <icon src="res/android/icon/7d3944dd1d382f54a71696d27e9d8061.png" density="hdpi" />
     <icon src="res/android/icon/d1bdaf13a00ad951746bfd4223ebf462.png" density="xhdpi" />
-    <icon src="res/android/icon/cf9474762d28213b8073bf1658715cf0.png" density="xxhdpi" />
+    <icon src="res/android/icon/d61c2a203e0ec94b57ef298454f6bc15.png" density="xxhdpi" />
     <icon src="res/android/icon/2a41ac36d9c77d8d4c71f94c06df5bd5.png" density="xxxhdpi" />
 
     <splash src="res/android/screen/9111c1de8753f981bf6dc777d8c5562d.png" density="port-hdpi"/>
